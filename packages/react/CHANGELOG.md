@@ -1,5 +1,13 @@
 # Change Log
 
+## 1.6.7
+
+### Patch Changes
+
+- Updated dependencies
+  [[`83eecb75f`](https://github.com/chakra-ui/chakra-ui/commit/83eecb75f5bec58ea60e800122ce63c3d96c6a25)]:
+  - @chakra-ui/layout@1.4.9
+
 ## 1.6.6
 
 ### Patch Changes
